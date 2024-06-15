@@ -1,5 +1,7 @@
 
-# Book Generator
+# Claude Book Generator Application
+
+![Book Generator](https://i.imgur.com/6lyacES.png)
 
 This project is a graphical application built with Python's Tkinter library that allows users to generate a book with multiple chapters using the Anthropic Claude API. The generated content is saved as a PDF file.
 
@@ -14,8 +16,8 @@ This project is a graphical application built with Python's Tkinter library that
 
 ## Requirements
 
-- Python 3.7+
-- Tkinter
+- `Python 3.7+` 
+- `Tkinter` 
 - `anthropic` library
 - `fpdf` library
 
@@ -42,7 +44,7 @@ This project is a graphical application built with Python's Tkinter library that
 
 1. **Run the application:**
    ```bash
-   python book_generator.py
+   python BookWriterClaude3.py
    ```
 
 2. **Fill in the details:**
@@ -57,10 +59,6 @@ This project is a graphical application built with Python's Tkinter library that
 
 4. **Save as PDF:**
    Once the book is generated, click the "Save as PDF" button to save the content as a PDF file.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
